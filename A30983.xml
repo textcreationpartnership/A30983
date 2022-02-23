@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble address to the livery-men of London relating to the election of sheriffs / by a lover of  his King and country.</title>
+            <author>I. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30983</idno>
+            <idno type="STC">Wing B83A</idno>
+            <idno type="STC">ESTC R27200</idno>
+            <idno type="EEBO-CITATION">09692171</idno>
+            <idno type="OCLC">ocm 09692171</idno>
+            <idno type="VID">44016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1348:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble address to the livery-men of London relating to the election of sheriffs / by a lover of  his King and country.</title>
+                  <author>I. B.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I.B.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44016:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>An Humble ADDRESS TO The Livery-Men of <hi>London,</hi> Relating to the Election of Sheriffs, by a Lover of his King and Country.</head>
+            <opener>
+               <salute>Gentlemen.</salute>
+            </opener>
+            <p>THere are now amongſt us who bears true Allegiance to the King, or hath a real kindneſs for the Government ei<g ref="char:EOLhyphen"/>ther in Church and State, but muſt be filled with <hi>Conſternation,</hi> at the daly feuds and Animoſites that are prevalent in the mid'ſt of us, and if the methods, one that of our Loy<g ref="char:EOLhyphen"/>al and prudent Parliaments formerly took, were put in Eexecution to wit to Retroſpect the paſt Actions of ſome Citizens amongſt us. We might then plainly ſee, whence theſe Animoſities took their riſe, and by what artifices they are ſtill car<g ref="char:EOLhyphen"/>ried on: my deſign and Intention of expoſing theſe enſuing Lines to publick view, is not to incite men ta Rancor and Malice, but to reduce them to a more quiet and ſedate Temper. I therefore ear<g ref="char:EOLhyphen"/>neſtly deſire that in the peruſal of them, all preju<g ref="char:EOLhyphen"/>dice and ſelf-Intereſt may be laid aſide. For the continued Deſign of the Author is to promote Love and Union, and to beget a right underſtand<g ref="char:EOLhyphen"/>ing in the minds of Men.</p>
+            <p>Gentlemen, It is obvious to you all, that the Election of Sheriffs is become the diſcourſe of Ci<g ref="char:EOLhyphen"/>ty and Country; and it were happy, if an expedi<g ref="char:EOLhyphen"/>ent were found out, in Order to the preſervation of my Lord Mayors Prerogative, and to prevent an Invaſion upon the Priviledges of the Com<g ref="char:EOLhyphen"/>mons: as to my Lord Mayors drinking to a per<g ref="char:EOLhyphen"/>ſon, and the Commons uſual confirming of that perſon, hath been ſo conſtantly practiſed, that it would be impertinent to enlarge on that Subject. I ſhall only crave leave to premiſe one thing be<g ref="char:EOLhyphen"/>fore I come to enter upon the main drift of my Diſcourſe. There is no Citizen I ſuppoſe, but hath heard a large Character of the worth and ability both in Purſe and Perſon, of the Gentleman drank to by my Lord Mayor; and the main Objection that I hear of, that bears weight is his being unacquainted with the Cuſtomes of the City: by reaſon of the ſhort time he hath reſi<g ref="char:EOLhyphen"/>ded amongſt us. Much might be urged, <hi>Pro</hi> and <hi>Con.</hi> But <hi>I</hi> will not undertake, at preſent to de<g ref="char:EOLhyphen"/>fend, or gainſay; but this <hi>I</hi> muſt take the Free<g ref="char:EOLhyphen"/>dome to aſſert, that ſome perſons amongſt us, through the inadvertency of their Actions and the a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rogancy of their minds, and ſeeking to become Popular: have made themſelves Lyable to Juſtice and are fearful of coming to the Teſt, and upon that ſcore, they influence the Commons to im<g ref="char:EOLhyphen"/>bark in their Cauſe, and by that means infufe fears and Jealouſies, and a diſlike of ſuch perſons, who will not be influenced by their Principles, and I appeal to the Conſciences of all unbiaſſed men, whether what I have aſſerted be not a real Truth, or elſe why was not this Gentleman Confirmed by you, as well as ſeveral others have been ſeveral years together. I think it is obvious to you all, that whoever he or they were, that adviſed my Lord to ſend forth ſo unuſual a Precept for the ſummoning a Common-Hall on <hi>Midſum<g ref="char:EOLhyphen"/>mer</hi> day, did at the ſame time do the great<g ref="char:EOLhyphen"/>eſt prejudice to that worthy and Loyal Gen<g ref="char:EOLhyphen"/>tleman Mr. <hi>North,</hi> that lay in their pow<g ref="char:EOLhyphen"/>er, for before the Iſſuing forth of that Precept, he was high in eſteem in the good Opinions of the Majority of the Citizens, and he had certainly been confirmed, but it was that which was the real cauſe of thoſe Fears and Jealo<g ref="char:EOLhyphen"/>fies, and the incitement of thoſe Feuds amongſt us; and that Precept hath done the great diſ<g ref="char:EOLhyphen"/>kindneſs to my Lord Mayor, by creating in mens minds a misbelief, and a great miſtruſt of his Actions, as if he intended an Invaſion upon the Rights and Priveledges of the Commons. It is matter of wonder and aſtoniſhment that any inferiour Officer belonging to the Lord Mayor and Court of Aldermen, ſhould aſſume to him<g ref="char:EOLhyphen"/>ſelf, ſo great a Confidence, as to impoſe a Pa<g ref="char:EOLhyphen"/>per, Intituled <hi>Brief Collections</hi> upon that honou<g ref="char:EOLhyphen"/>rable <hi>Court,</hi> and crave their Licenſing it, ſo full of falfifications.</p>
+            <p>
+               <hi>I</hi> verily believe my Lord Mayor will have great cauſe when a Scrutiny comes to be made of the Tranſactions of <hi>Midſomer-day,</hi> to Return his hearty thanks backward to ſome Perſons who would pretend themſelves to be, Loyal to the King and Government, were very earneſt with my Lord to come and diſſolve the Poll. And there are ſome ſober and Loyal Citizens that obſerved all Tranſactions, and took ſpecial Notice, who it was that came before my Lords Coach, crying-out Huzza Boyes: here comes my Lord, is this a deport<g ref="char:EOLhyphen"/>ment becoming anyſober Citizen.</p>
+            <p>
+               <hi>I</hi> appeal to all Loyal perſons, and this perſon was one of the Chief that went to <hi>White-Hall,</hi> to inform againſt his fellow Citizens, it would better have hecomed him, to have been in his Shop and
+<pb facs="tcp:44016:2"/>
+               <!-- PDF PAGE 23 -->minded his buſineſs <hi>I</hi> wonder with what conſidence, ſuch a perſon dare preſume to appear in the pre<g ref="char:EOLhyphen"/>ſence of a Prince, who hath ſo flender a Repute amongſt tht Eminent wealthy Loyal Citizens, that they account him not worth aſſociating with. And they wondered to ſee him come home ſitting on the right hand of a truely Loyal Citizen in his Coach, the Appellation, of <hi>(Martain Marral)</hi> is truely applicable to him, and certainly Mr. <hi>Chaſe</hi> his Majeſties Apoth. Who is the Loyal, and ſo well beloved among the Generality of the chief Citzens, will be ſo Juſt to them, and Loyal to his Majeſty, as to give him a true account of the Gen<g ref="char:EOLhyphen"/>tlemans aiblitys being a brother of the ſame fra<g ref="char:EOLhyphen"/>ternity; there is a <hi>Barbado's</hi> Marchant of the ſame ſtamp who Hectors and talks, But if there were Occaſion of ſerving the King in purſe or per<g ref="char:EOLhyphen"/>ſon, they would both quickly grow coole.</p>
+            <p>I could heartily wiſh that the appellation of <hi>To<g ref="char:EOLhyphen"/>ry</hi> and <hi>Whigg</hi> might be obliterated among us, and that we might all Joyn hand in hand, reſolving to fear God, and Honour the King, and to Pro<g ref="char:EOLhyphen"/>mote thoſe things that might be acceptable to the King, and advantagious to the City, and in order to that Eſtabliſhment, of that happy Union, <hi>I</hi> would propoſe but not impoſe ſome things to the ſerious conſiderations of all ſober Citizens, my Lord having Ordered an account to be ſent in<g ref="char:EOLhyphen"/>to the Town-clarks Office of all the Liveries which is accordingly done, it were well if an Inſpection were made to ſee whither any other then Livery<g ref="char:EOLhyphen"/>men Polled, if it appear they did then the Electi<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:44016:2"/>
+               <!-- PDF PAGE 23 -->becomes void of it ſelf, but if that expedient be fruitleſs. I crave leave to propoſe another. Several perſons, having been with my Lord Mayor and acquainted him that upon his Ordering the Poll to ceaſe they have not Polled, they therefore crave a new Election. If my Lord pleaſes to Sum<g ref="char:EOLhyphen"/>mon a new <hi>Hall,</hi> and to wave Mr. <hi>North</hi> for the preſent, and to drink to another perſon; who may be acceptable to the King, and pleaſing to the Ci<g ref="char:EOLhyphen"/>ty: and it is hoped, we all may confirm him and other perſons, being put up by the <hi>Common-Hall,</hi> and the preſent perſons Totally laid aſide for this year, it never was, nor now is any conceit <hi>I</hi> had or have of my own abilitys, that put me upon, de<g ref="char:EOLhyphen"/>livering my Sentiments. But the Duty and Ser<g ref="char:EOLhyphen"/>vice which I owe unto the Citizens, made me ad<g ref="char:EOLhyphen"/>venture to put in this plea, for the preſervation of our libertyes, and as ſomtimes it falls out in a caſe of danger, when the loſs of all lies at Stake, that the forwardneſs of a young and experienced Souldier who perhaps is more hardy then Warrier yet loving his Countries Liberty adventures to begin the on ſet and thereby ſtirs up courage in the more grave and able Commanders to follow on in hops of victory ſo if by my example; <hi>I</hi> may encourage ſome of you, who <hi>I</hi> know are ſar abler then my ſelf to improve your parts and abilities; for the Common good <hi>I</hi> ſhall then hope that by the Evidence of Truth and Reaſon, all our Privi<g ref="char:EOLhyphen"/>ledges &amp; Immunities will be continued to us, which is and ever ſhall be the deſire of your ſervant.</p>
+            <closer>
+               <signed>I. B.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. Bayly,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
